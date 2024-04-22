@@ -1,4 +1,4 @@
-# Welcome to Form Netflix Mobile Navigation
+# Welcome to Netflix Mobile Navigation
 
 ## Technologies Used
 - HTML, CSS & JAVASCRIPT 
